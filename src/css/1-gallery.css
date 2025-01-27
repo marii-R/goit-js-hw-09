@@ -1,0 +1,41 @@
+@import "simplelightbox/dist/simple-lightbox.min.css";
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.back-link {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #007bff;
+    border-radius: 8px;
+}
+
+
+.main-title {
+    text-align: center;
+    margin: 0;
+}
+.gallery {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-top: 24px;
+    gap: 24px;
+
+}
+
+.gallery-img {
+    display: flex;
+    width: 360px;
+    height: 100%;
+
+}
