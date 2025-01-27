@@ -50,6 +50,7 @@ body {
     width: 360px;
     min-height: 80px;
     text-indent: 16px;
+    padding-top: 16px;
     border: 1px solid #808080;
     border-radius: 8px;
 }
